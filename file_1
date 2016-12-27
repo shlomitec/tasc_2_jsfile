@@ -1,0 +1,11 @@
+<script type="text/javascript">
+	
+	int a =16;
+	if ( a<5)
+		alert("today is " + a + "days");
+		a--;
+	else
+		alert("end of year")
+
+
+</script>

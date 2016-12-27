@@ -1,0 +1,10 @@
+<script type="text/javascript">
+	
+	int a =3;
+	int b =6;
+	int c = a+b;
+	
+	alert("a" + "b =" + c );
+	alert ("end of program");
+
+</script>
